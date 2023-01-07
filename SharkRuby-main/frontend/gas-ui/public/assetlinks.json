@@ -1,0 +1,20 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "me.glitch.bigboxgas.twa",
+        "sha256_cert_fingerprints":
+          ["9D:41:C8:FC:1A:23:9B:63:4D:F6:40:C4:F0:AA:DB:0F:FE:FC:6F:83:E8:64:FB:EE:65:22:B3:6B:64:53:6D:77"]
+      }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+          "namespace": "android_app",
+          "package_name": "me.glitch.bigboxgas.twa",
+          "sha256_cert_fingerprints":
+            ["C9:9C:E1:3A:27:87:B5:A7:A4:B3:B6:38:73:A2:45:6A:1C:DF:77:88:05:4E:D0:E6:B2:4F:A7:12:8A:F2:49:5D"]
+        }
+    }
+]

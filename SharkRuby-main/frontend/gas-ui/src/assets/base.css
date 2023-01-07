@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Secular+One&display=swap');
+
+:root {
+    --red: #D92546;
+    --blue: #3D90D9;
+    --green: #52c359;
+    --grey: #d5d5d5;
+}
+
+html {
+    -webkit-tap-highlight-color: transparent;
+    padding: 0 12px;
+    margin: auto;
+    max-width: 1280px;
+    /* min-height: 100vh; */
+}
+
+h1 {
+    font-family: 'Fugaz One', cursive;
+    text-transform: uppercase;
+}

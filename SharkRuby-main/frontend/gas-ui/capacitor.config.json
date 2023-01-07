@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "bigboxgas-ui",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
